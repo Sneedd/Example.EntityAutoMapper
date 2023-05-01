@@ -2,7 +2,7 @@
 
 This example allows to create dynamic entities including mapping for the Entity Framework Core while the entities are only interfaces.
 
-The (not perfect) benchmark shows a small overhead due to additional methods and much more casts.
+The (not perfect) benchmark shows a small overhead due to additional method calls and much more casts.
 
 
 ## Benchmark result
